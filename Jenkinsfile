@@ -15,7 +15,7 @@ sudo yum install jenkins -y
 #Start Jenkins as a service:
 sudo service jenkins start
 
-#Sometimes after launching a "sudo service jenkins start", an ERROR that looks like the description below: 
+#Sometimes after launching a "sudo service jenkins start", you will see an ERROR that looks like the description below: 
 Starting jenkins (via systemctl): Job for jenkins.service failed because the control process exited wit
 h error code. See "systemctl status jenkins.service" and "journalctl -xe" for details.
                                         [FAILED]
