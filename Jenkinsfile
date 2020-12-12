@@ -44,5 +44,5 @@ Click Install "suggested plugins"
 #Once the installation is complete, enter Administrator Credentials, click
 Save Credentials, and then click Start Using Jenkins
 
-               -------------[GOODLUCK]----------------------
+               |-------------[GOODLUCK]----------------------|
 
