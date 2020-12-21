@@ -66,3 +66,4 @@ print("i love eating piza") #This is a comment <-------- At the end of python co
 #more than just one line
 print("Hello, World!")
 
+#Learning python is a great idea. It helps you build your DevOps Dreams. Thanks. 
