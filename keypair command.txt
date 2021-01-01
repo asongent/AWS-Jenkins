@@ -1,0 +1,9 @@
+
+            #How to create and downloads aws ec2-instance key_pay
+
+
+                                    ****MAC*****
+# aws ec2 create-key-pair --key-name tf_key --query 'KeyMaterial' --output text > tf_key.pem
+
+                                  *****WINDOWS POWERSHELL*****
+# aws ec2 create-key-pair --key-name tf_key --query 'KeyMaterial' --output text | out-file -encoding ascii -filepath tf_key.pem
