@@ -10,4 +10,10 @@ how it feels when you are struggling to learn something from scratch.
 
 ---
 Thank you all for every video you put out there for some of these lessons.
-They were of great help to me 
+They were of great help to me.
+
+---
+
+                               Thanks for Taking This Tutorial
+                                       Gentle 
+                                   Jr. DevOps Engineer
